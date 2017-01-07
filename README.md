@@ -15,7 +15,7 @@
 
 ## 使う
 ### ホスト調査(Penetration Test)
-* ポートスキャナー(nmp)
+* ポートスキャナー(nmap)
 * 脆弱性スキャナー(nessus)
 * 攻撃コード(metasploit)
 
@@ -55,6 +55,7 @@
 * [内閣サイバーセキュリティセンター](http://www.nisc.go.jp/)
 * [NPO日本ネットワークセキュリティ協会](http://www.jnsa.org/)
 * [警察庁セキュリティポータルサイト@police](https://www.npa.go.jp/cyberpolice/index.html)
+
 ## 私的なサイト
 * [WhiteHackerzBlog ハッカー養成学院　公式ブログ \| ハッカー養成学院WhiteHackerZ公式ブログ](http://www.whitehackerz.jp/blog/)
 
